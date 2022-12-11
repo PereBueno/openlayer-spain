@@ -11,7 +11,7 @@
   "author": "pere.bueno@gmail.com",
   "license": "ISC",
   "devDependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "ol": "^5.3.3",
     "parcel-bundler": "^1.12.3",
     "serve-static": "^1.14.1"
